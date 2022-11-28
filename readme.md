@@ -13,7 +13,8 @@ C:\Users\yourusername\AppData\Roaming\.minecraft\saves\yourworld\datapacks
 
 One addition added in the Datapack, is a crafting recipe, that lets you craft oak leafs into apples.
 
-https://drive.google.com/drive/u/0/folders/1UrKzT63PZi3lj3w_j0fbwPn6OrNKS34S
+https://drive.google.com/file/d/1X9-6RNX6E6p9_eyi7pP8jgqxdqQ9-Fuz/view?usp=sharing
+
 
 ### ***Change the time with functions***
 
