@@ -3,7 +3,7 @@
 
 ## Instalation
 
-Move the downloaded folder to your  dataoacks folder inside of your world folder.
+Move the downloaded folder to your  datapacks folder inside of your world folder.
 The folder is usually located in:
 ```
 C:\Users\yourusername\AppData\Roaming\.minecraft\saves\yourworld\datapacks
@@ -11,7 +11,7 @@ C:\Users\yourusername\AppData\Roaming\.minecraft\saves\yourworld\datapacks
 
 ## kickstart
 
-One addition added in the Datapack, is a crafting recipe, that lets you craft oak leafs into apples.
+One addition added in the Datapack, is a crafting recipe, that lets you craft oak leaves into apples.
 
 ![The recipe picture](recipe1.png)
 
