@@ -134,6 +134,12 @@ This is just a test function. Its part of the sfe (Simple Flask Extras)
  A saddle is crafted by putting oak plank in the middle crafting grid, than putting leather in the top, left, right crafting grids.
  Example:
  ![image](image.png)
+ 
+ ### String recipe
+ 
+ a string is crafted by using two leather and one wheat.  (only applies for version 0.1 and higher)
+ ![leimage](https://raw.githubusercontent.com/VilliasGaming/SF/main/leimage.png) 
+
 
 
 
