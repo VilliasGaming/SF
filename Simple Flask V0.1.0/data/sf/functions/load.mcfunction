@@ -1,0 +1,1 @@
+tellraw @a {"text" : "SF loaded.", "color": "b7ea0e"}

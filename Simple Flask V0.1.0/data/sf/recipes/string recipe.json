@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  G",
+        " # ",
+        "G  "
+    ],
+    "key": {
+        "#":{
+            "item": "minecraft:wheat"
+        },
+        "G":{
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "minecraft:string"
+    }
+}
